@@ -1,12 +1,3 @@
-"""
-File: Control.gd
-Description: This file control the sequens who are displayed in the screen.
-Author: Martí Llurba
-Date: 15/05/2023
-Version: 1.9
-"""
-
-
 extends Control
 
 # Send the signals to call them in an other file or fuction
