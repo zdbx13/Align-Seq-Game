@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/MyHome.mp3-de594ecca69eb6737a3e303020f141d1.mp3str"
+
+[deps]
+
+source_file="res://art/music/MyHome.mp3"
+dest_files=[ "res://.import/MyHome.mp3-de594ecca69eb6737a3e303020f141d1.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

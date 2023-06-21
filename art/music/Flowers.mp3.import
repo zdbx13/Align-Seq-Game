@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Flowers.mp3-f9f7a881c8b4cc54dbb29e4b94a0d63f.mp3str"
+
+[deps]
+
+source_file="res://art/music/Flowers.mp3"
+dest_files=[ "res://.import/Flowers.mp3-f9f7a881c8b4cc54dbb29e4b94a0d63f.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
