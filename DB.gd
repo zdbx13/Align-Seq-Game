@@ -1,11 +1,3 @@
-"""
-File: DB.gd
-Description: This file make a http request and save the data recived
-Author: Martí Llurba
-Date: 11/05/2023
-Version: 1.1
-"""
-
 extends Node
 
 
