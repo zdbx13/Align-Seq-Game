@@ -1,12 +1,3 @@
-"""
-File: HowToPlay.gd
-Description: This file control HowToPlay scene.
-Author: Martí Llurba
-Date: 23/05/2023
-Version: 1.0
-"""
-
-
 extends Node2D
 
 # Emit signal to call them in an other file
