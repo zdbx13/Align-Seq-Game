@@ -1,11 +1,3 @@
-"""
-File: Utils.gd
-Description: This file contents some required functions to call in other files.
-Author: Martí Llurba
-Date: 28/05/2023
-Version: 1.5
-"""
-
 extends Node
 
 
