@@ -1,11 +1,3 @@
-"""
-File: Styles.gd
-Description: This file control the styles from the Buttons and labels.
-Author: Martí Llurba
-Date: 16/05/2023
-Version: 1.0
-"""
-
 extends Node
 
 # This function create a new DynamicFont to text
