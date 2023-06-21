@@ -1,11 +1,3 @@
-"""
-File: EditData.gd
-Description: This file control EditData scene.
-Author: Martí Llurba
-Date: 29/05/2023
-Version: 1.0
-"""
-
 extends Node2D
 
 
