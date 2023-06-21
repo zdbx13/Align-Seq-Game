@@ -1,11 +1,3 @@
-"""
-File: Score.gd
-Description: This file control the score screen.
-Author: Martí Llurba
-Date: 20/05/2023
-Version: 1.9
-"""
-
 extends Control
 
 
