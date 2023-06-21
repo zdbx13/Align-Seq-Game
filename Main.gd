@@ -1,12 +1,3 @@
-"""
-File: Main.gd
-Description: This file control what see user every time
-Author: Martí Llurba
-Date: 15/05/2023
-Version: 1.5
-"""
-
-
 extends PanelContainer
 
 
